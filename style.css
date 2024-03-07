@@ -1,0 +1,95 @@
+#poster{
+    width: 135px; 
+    height: 135px;
+    top: 454px;
+    border-radius: 50%;
+    left: 341px;
+}
+#imgi{
+    width: 100px; 
+    height: 101px;
+    top: 33px;
+    border-radius: 50%;
+    left: 115px;
+}
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Style each column */
+.column {
+    flex: 1;
+    padding: 20px;
+    margin-top: 20px;
+    size: 20px;
+    width: 400px;
+    height: 310px;
+    box-shadow: #000000,25%;
+    top: 1054px;
+    margin-left: 50px;
+    
+    justify-content: space-between;
+    border-radius: 5%;
+    background: #FFF6F6;
+    text-align: center;
+    
+    
+    
+    
+    
+    border: 5px,#000000;
+    
+}
+
+
+.con {
+    display: flex;
+    justify-content: space-between;
+}
+.uu {
+    display: flex;
+    justify-content: space-between;
+}
+ h2{
+    font-size: 50px;
+ }     
+
+
+
+  
+
+ /* styles.css */
+
+
+ 
+.container {
+    background-color:#B70569;
+
+    height: 100px;
+    top: -2px;
+    left: -8px;
+    width: 100%;
+    display: flex; /* Use flexbox for horizontal alignment */
+    justify-content: space-between; /* Equal spacing between headings */
+    align-items: center; /* Vertically center the headings */
+    /* Adjust as needed */
+}
+h1 {
+    margin: 0; /* Remove default margin */
+    background-color: #B70569;
+    color:white;
+}
+h3{
+    background-color: gray;
+    font-size: 50px;
+    height: 100px;
+    text-align: center;
+}
+
+
+
+
+
+
+
